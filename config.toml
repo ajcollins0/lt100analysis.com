@@ -1,4 +1,4 @@
-baseurl = "ajcollins0.github.io/lt100analysis.com//"
+baseurl = "https://ajcollins0.github.io/lt100analysis.com/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -26,6 +26,8 @@ paginate = 5
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
+  
+relativeURLs = true
 
 [languages]
   [languages.en]
