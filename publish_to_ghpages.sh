@@ -24,4 +24,6 @@ echo "Generating site"
 hugo -t hello-friend
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+echo lt100analysis.com >> public/CNAME
+cd public && git pullgit add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
