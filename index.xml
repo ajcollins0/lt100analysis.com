@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2023 22:44:11 -0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2023</title>
+      <link>/posts/2023/2023/</link>
+      <pubDate>Tue, 22 Aug 2023 22:44:11 -0600</pubDate>
+      
+      <guid>/posts/2023/2023/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The 2023 Leadville 100 # In 2023 I particpated in the leadville 100. Post race I was curious about the correlation between the time people arrived at an aid station vs the overall finish time. This analysis is an attempt at chasing that curiousity and I hope you find it as interesting as I did!
+Finisher Percentage # Overall the finisher percentage was 46.28. The breakdown across gender identities is shown in the above photo.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
